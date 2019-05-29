@@ -1,7 +1,7 @@
 Make_file.md:
 	rm README.md
 	touch README.md
-	echo "                              TITLE: UNIX Workbench project                        " >> README.md
+	echo "                              *UNIX Workbench project*                        " >> README.md
 	echo "The date is :   " >> README.md
 	date >> README.md
 	echo "" >> README.md

@@ -1,6 +1,6 @@
-                              TITLE: UNIX Workbench project                        
+                              *UNIX Workbench project*                        
 The date is :   
-Wed May 29 21:35:32 IST 2019
+Wed May 29 22:01:45 IST 2019
 
 The number of lines in the guessing game and the file name : 
-26 guessinggame.sh
+22 guessinggame.sh
